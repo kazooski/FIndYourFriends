@@ -25,6 +25,16 @@ var friends = [
 
     photo: "https://vignette.wikia.nocookie.net/snicket/images/2/26/Geraldinebooksquare.jpg/revision/latest?cb=20191225233847",
     scores: [
+      1,
+      1,
+      2,
+      1,
+      5,
+      4,
+      5,
+      5,
+      5,
+      1
     ]
   },
   {
@@ -32,12 +42,32 @@ var friends = [
 
     photo: "https://vignette.wikia.nocookie.net/snicket/images/f/f0/JeromeTV.png/revision/latest?cb=20180407004857",
     scores: [
+        3,
+        3,
+        3,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
     ]
   },
   {
     name: "Josephine Anwhistle",
     photo: "https://vignette.wikia.nocookie.net/vfd/images/c/c5/JosephineTV.png/revision/latest?cb=20170117070638",
     scores: [
+        5,
+        3,
+        2,
+        1,
+        1,
+        1,
+        1,
+        4,
+        1,
+        3
     ]
   },
   {
@@ -45,6 +75,16 @@ var friends = [
 
     photo: "https://vignette.wikia.nocookie.net/snicket/images/3/33/EitherFrankOrErnest.png/revision/latest/top-crop/width/360/height/450?cb=20181204155545",
     scores: [
+        4,
+        5,
+        3,
+        5,
+        4,
+        2,
+        1,
+        2,
+        4,
+        5
     ]
   },
   {
@@ -52,6 +92,16 @@ var friends = [
 
     photo: "https://vignette.wikia.nocookie.net/snicket/images/9/9c/Beatrice_netflix_square.png/revision/latest?cb=20190812203311",
     scores: [
+        4,
+        5,
+        4,
+        5,
+        3,
+        4,
+        2,
+        5,
+        2,
+        5
     ]
   },
   {
@@ -59,6 +109,16 @@ var friends = [
 
     photo: "https://vignette.wikia.nocookie.net/snicket/images/6/64/Monty_netflix_square.png/revision/latest?cb=20190817232605",
     scores: [
+        5,
+        4,
+        4,
+        3,
+        3,
+        3,
+        1,
+        3,
+        3,
+        5
     ]
   }
 
